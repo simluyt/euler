@@ -1,0 +1,6 @@
+[package]
+name = "problem_one"
+version = "0.1.0"
+authors = ["simluyt <github@simonluyten.be>"]
+
+[dependencies]
